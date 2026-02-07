@@ -1,0 +1,210 @@
+**Matthew Clarson**
+
+📍 Las Vegas, NV 89139
+
+📞 (702) 626-3853 \| 📧
+[[clarson.matt@outlook.com]{.underline}](mailto:clarson.matt@outlook.com)
+
+**Summary**
+
+QA Automation Engineer with 8+ years designing and implementing scalable
+test automation frameworks for enterprise web and financial
+applications. Strong in Java, Spring Boot, Selenium, Cucumber BDD,
+API/UI/backend testing, and CI/CD integration (Jenkins, GitHub Actions,
+SonarQube, AWS EC2). Known for reducing manual testing effort by 70%,
+improving defect detection, and integrating automation into release
+pipelines to catch regressions before code merges. Currently expanding
+into C# and Playwright to broaden test coverage across modern tech
+stacks.
+
+**Key & Technical Skills**
+
+- **Test Automation & QA:** Selenium WebDriver; Cucumber BDD; API
+  testing; UI and backend testing; test framework architecture;
+  regression testing; cross-browser testing; smoke testing; test
+  planning and execution; exploratory testing; defect tracking and
+  analysis (JIRA).
+
+- **Programming & Development:** Java; SQL; Bash scripting; Spring Boot;
+  Hibernate/JPA; SOLID principles; design patterns; TDD; OOP.
+
+- **CI/CD & DevOps:** Jenkins; GitHub Actions; Maven; Git; AWS EC2;
+  automated build workflows; CI/CD pipeline design and integration;
+  build verification; SonarQube for code quality.
+
+- **Databases & Analysis:** MSSQL; Sybase; SQL query optimization; data
+  validation; database regression checks.
+
+- **Methods & Process:** Agile/Scrum; risk-based testing; change
+  management; documentation and playbooks; cross-functional
+  collaboration; continuous improvement.
+
+**Employment Experience**
+
+**Jun 2025 -- Oct 2025**
+
+**Build Master Sands Digital Services -- Division of Las Vegas Sands
+Corp**
+
+- Automated multi-component (micro service server and client) build
+  workflows using Bash and GitHub Actions
+
+- Standardized build visibility and consistency; generated automated
+  release reporting drawing from Git and JIRA metadata, and using an API
+  to produce AI summaries for different audiences, testers, management,
+  IT directors, etc.
+
+- Collaborated with QA and development teams across the organization to
+  ensure release quality, regulatory readiness, and improved operational
+  reliability in gaming environment
+
+- Developed automated build verification processes to validate software
+  builds before deployment, ensuring system reliability
+
+- Authored change management playbook in collaboration with leadership
+
+- Monitored application errors and investigated root causes using
+  logging and error tracking systems, collaborating with development
+  teams to resolve production issues
+
+- Performed manual verification testing of builds and releases across
+  multiple environments before deployment to production
+
+- Developed automated smoke test processes integrated into CI/CD
+  pipelines to catch regressions early in the release cycle
+
+- Role concluded in October 2025 due to division-wide closure
+
+**Feb 2018 -- Jul 2024**
+
+**Senior SDET, Business Validation Automation Broadridge, London**
+
+- Developed a test automation framework using Java, Spring Boot,
+  Selenium, and Hibernate/JPA to validate complex, high-volume web-based
+  post-trade processing systems as senior developer, later becoming team
+  lead. This multilayered, extensible framework with well-defined APIs
+  was adopted across multiple departments
+
+- Built automated test coverage across API, UI (Selenium WebDriver), and
+  backend layers using Cucumber BDD, reducing manual testing effort by
+  70% while improving defect detection rates
+
+- Designed and implemented a robust CI/CD pipeline integrating SonarQube
+  for code quality enforcement and automated testing at multiple stages
+  (unit, integration, regression). Deployed on AWS EC2 instances,
+  enabling automated builds, tests, and deployments while improving
+  delivery speed and system scalability
+
+- Performed both automated and manual testing for web applications,
+  including exploratory testing to identify edge cases and unusual
+  behavior. Investigated and documented defects with detailed
+  reproduction steps, technical context, and browser/environment details
+
+- Designed and executed comprehensive test strategies covering
+  functional, regression, and integration testing for financial systems
+  processing millions of daily transactions. Integrated automated
+  regression testing into the release pipeline to catch issues before
+  each code merge
+
+- Conducted cross-browser compatibility testing and validation across
+  multiple environments (dev, QA, UAT, production), ensuring consistent
+  user experience
+
+- Partnered with product owners, architects, and developers early in
+  development cycle to define acceptance criteria, quality risks, and
+  test coverage requirements
+
+- Managed and mentored distributed team of developers and testers in UK
+  and India. Led test strategy evolution, continuously improving
+  automation tools, testing standards, and QA processes
+
+- Used SOLID programming principles and design patterns to produce
+  high-quality, maintainable test code. Worked with stakeholders at all
+  levels to generate a comprehensive test library and maintained a user
+  story backlog
+
+**Oct 2014 -- Feb 2018**
+
+**IT Contractor, Technical Analyst Broadridge, London**
+
+- Authored System Proposal Forms (SPFs) translating business
+  requirements into the technical specifications for developers and
+  testers
+
+- Managed system enhancements from specification through to client
+  demonstrations, working with product owners, architects, developers,
+  testers, BAs to deliver complex enhancements and greenfield projects
+
+- Performed in-depth data analysis and SQL reporting, reconciling trade
+  data against regulatory mandates and ensuring accuracy across diverse
+  global markets
+
+- Worked extensively on transaction reporting across multiple
+  international jurisdictions, navigating complex regulatory
+  requirements and compliance standards
+
+- Performed manual testing and validation of system enhancements across
+  web-based financial applications, documenting test results and
+  coordinating with QA teams
+
+**Feb 2012 -- Oct 2014**
+
+**VP Developer, Scrum Team Bank of America Merrill Lynch, Dublin**
+
+- Delivered end-to-end development of enterprise back-office
+  applications from analysis through production deployment, using SQL,
+  Java, TIBCO, and Python in an Agile Scrum team. Contributed to full
+  software lifecycle including requirements analysis, development, test
+  planning, defect investigation, and release verification
+
+**Aug 2005 -- Feb 2012**
+
+**Team Lead & Senior Support Engineer, Application Service Delivery Bank
+of America Merrill Lynch, Dublin**
+
+- Managed reporting through Jira, providing detailed status updates to
+  senior management in both technical and business teams, ensuring
+  transparency and alignment across departments
+
+- Served as the SME (Subject Matter Expert) and escalation point for
+  complex technical issues, resolving high-priority tickets and guiding
+  the team through critical incidents
+
+- Mentored and trained junior engineers, fostering skill development and
+  improving overall team efficiency
+
+- Spearheaded the transition of application support from London to
+  Dublin, leading a team of 25 across Dublin and India, including TCS
+  staff on shore
+
+- Managed production support for enterprise financial applications,
+  ensuring high availability, stability, and performance in a
+  mission-critical environment
+
+- Spent 6 months in Chennai upskilling the staff at that location
+
+**Early Career Summary (1998 -- 2005)**
+
+- Bank of America Merrill Lynch, Dublin \| Analyst Developer (2003 --
+  2005)
+
+- Client Solutions Ltd, Dublin \| Analyst/Programmer (1999 -- 2002)
+
+- Cap Gemini Ernst & Young, Dublin \| Junior Developer (1998 -- 1999)
+
+EDUCATION
+
+Currently studying C#, Software patterns, recently completed a project
+using playwright and typescript.
+
+- Sep 1997 - Jun 1998: Graduate Diploma in IT
+
+> DCU, Dublin
+>
+> Achieved: Merit
+
+- Oct 1994 - Jun 1997: BA (Hons) in Economics
+
+> UCD, Dublin
+>
+> Achieved: 2:1 Honours

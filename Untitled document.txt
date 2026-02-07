@@ -1,0 +1,139 @@
+Matthew Clarson
+
+📍 Las Vegas, NV 89139
+
+📞 (702) 626-3583 \| 📧 clarson.matt@outlook.com
+
+Summary
+
+Experienced senior SQL and Java developer with over 20 years of
+experience in data management, business analysis, and enterprise
+systems. Strong background in data governance, reporting, and analytics,
+working with large datasets, relational databases, and regulatory
+compliance in complex financial environments. Proven expertise in Spring
+Boot, automated testing, and CI/CD pipeline design. Recently relocated
+from London to Las Vegas.
+
+Key & Technical Skills
+
+• Programming Languages: SQL, Java, JUnit, Spring Boot
+
+• Database Management: MSSQL, Sybase
+
+• Frameworks & Technologies: Spring Boot, Jenkins, AWS, MQ, Maven,
+Selenium
+
+• Methodologies: Agile, DevOps, Test-Driven Development, JIRA
+
+• Version Control: Git
+
+• Automation & Testing: Automated testing, test framework development,
+CI/CD pipelines
+
+Employment Experience
+
+Jun 2025 -- Oct 2025
+
+Build Master \| Sands Digital Services -- Division of Las Vegas Sands
+Corp
+
+• Automated multi-component build workflows using Bash and GitHub
+Actions
+
+• Standardized build visibility and consistency; generated automated
+release reporting from Git and JIRA metadata
+
+• Authored change management playbook in collaboration with leadership
+
+• Collaborated across teams to improve operational reliability
+
+• Role concluded due to division-wide closure
+
+Feb 2018 -- Jul 2024
+
+Architect/Developer, Business Validation Automation \| Broadridge,
+London
+
+• Led development of Java/Spring Boot-based testing framework using
+Hibernate/JPA to validate complex, high-volume post-trade processing
+systems
+
+• Used patterns and SOLID programming principles to produce high quality
+code
+
+• Integrated BDD (Cucumber), Selenium (UI Testing), and backend testing
+for comprehensive automation
+
+• Managed and mentored a distributed team of developers in UK and India
+
+• Designed and implemented robust CI/CD pipeline for testing framework,
+integrating SonarQube for code quality
+
+• Pipeline deployed on AWS using EC2 instances for automated builds,
+tests, and deployments
+
+• Integrated regression runs into release pipeline to capture issues
+before code merge
+
+• Worked with stakeholders to generate comprehensive test library and
+maintained user story backlog
+
+Oct 2014 -- Feb 2018
+
+IT Contractor, Technical Analyst \| Broadridge, London
+
+• Authored System Proposal Forms translating business requirements into
+technical specifications
+
+• Managed system enhancements from specification through client
+demonstration
+
+• Worked extensively on transaction reporting across multiple
+international jurisdictions
+
+• Performed in-depth data analysis and SQL reporting, reconciling trade
+data against regulatory mandates
+
+Feb 2012 -- Oct 2014
+
+VP Developer, Scrum Team \| Bank of America Merrill Lynch, Dublin
+
+• Developed and maintained enterprise back-office applications using
+SQL, Java, TIBCO
+
+• Worked with Python and Agile Scrum team
+
+Aug 2005 -- Feb 2012
+
+Team Lead & Senior Support Engineer \| Bank of America Merrill Lynch,
+Dublin
+
+• Managed reporting through Jira, providing status updates to senior
+management
+
+• Served as SME for complex technical issues and escalation point
+
+• Mentored and trained junior engineers
+
+• Spearheaded transition of application support from London to Dublin
+
+• Managed production support for enterprise financial applications
+
+• Spent 6 months in Chennai upskilling staff
+
+Early Career (1998 -- 2005)
+
+• Bank of America Merrill Lynch, Dublin \| Analyst Developer (2003 --
+2005)
+
+• Client Solutions Ltd, Dublin \| Analyst/Programmer (1999 -- 2001)
+
+• Cap Gemini Ernst & Young, Dublin \| Junior Developer (1998 -- 1999)
+
+Education
+
+• Sep 1997 - Jun 1998: Graduate Diploma in IT, DCU, Dublin (Achieved:
+Merit)
+
+• Oct 1994 - Jun 1997: BA (Hons) in Economics, UCD, Dublin (Achieved:
+2:1 Honours)

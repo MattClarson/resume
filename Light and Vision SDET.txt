@@ -1,0 +1,88 @@
+Matthew Clarson\
+Las Vegas, NV\
+(702) 626-3583 \|
+[[https://github.com/CorncrakeConsulting]{.underline}](https://github.com/CorncrakeConsulting)
+\| clarson.matt@outlook.com
+
+Summary\
+Las Vegas-based QA Engineer with gaming industry experience at Sands
+Digital Services. Skilled in test automation, defect troubleshooting,
+data validation, reporting, and quality assurance for complex systems.
+Proven in build/release processes, JIRA tracking, and cross-team
+collaboration to ensure product reliability.
+
+Key & Technical Skills
+
+- Testing & Validation: Selenium, JUnit, backend/service verification,
+  SQL data checks
+
+- Build & Reporting: GitHub Actions, JIRA, Bash scripting, automated
+  release reporting
+
+- Tools: Java, Spring Boot, SQL, Git, AWS, Jenkins, Maven
+
+- Processes: CI/CD pipelines, change management, regression testing,
+  Agile/Scrum
+
+Employment Experience\
+Build Master \| Sands Digital Services -- Division of Las Vegas Sands
+Corp \| Jun 2025 -- Oct 2025
+
+- Automated multi-component build workflows for gaming systems using
+  Bash and GitHub Actions, ensuring consistent quality across
+  server/client components.
+
+- Generated automated test/release reporting from Git and JIRA data for
+  testers and management, tracking issues and validating build
+  integrity.
+
+- Authored change management documentation and collaborated across teams
+  to resolve production reliability issues.
+
+- Role concluded due to division-wide closure.
+
+Architect/SDET, Business Validation Automation \| Broadridge, London \|
+Feb 2018 -- Jul 2024
+
+- Led Java/Spring Boot testing framework development for high-volume
+  systems, including API/REST/SOAP validation and SQL reconciliation.
+
+- Integrated Selenium UI testing and backend validation with CI/CD
+  pipelines to catch defects before releases.
+
+- Managed distributed testing team and maintained comprehensive test
+  libraries/user stories for quality assurance.
+
+IT Contractor, Technical Analyst \| Broadridge, London \| Oct 2014 --
+Feb 2018
+
+- Performed in-depth SQL data analysis and reporting, reconciling
+  complex datasets to ensure accuracy and compliance.
+
+- Authored technical specifications and managed enhancements from
+  requirements through testing and validation.
+
+VP Developer, Scrum Team \| Bank of America Merrill Lynch, Dublin \| Feb
+2012 -- Oct 2014
+
+- Developed enterprise applications using SQL, Java in Agile environment
+  with rigorous testing practices.
+
+VP Team Lead & Senior Support Engineer, Application Service Delivery \|
+Bank of America Merrill Lynch, Dublin \| Aug 2005 -- Feb 2012
+
+- Managed JIRA ticket queues, tracked defects, and resolved
+  high-priority production issues through root cause analysis.
+
+- Led production support ensuring system stability; mentored team on
+  quality processes.
+
+Early Career Summary (1998 -- 2005)\
+Analyst Developer \| Bank of America Merrill Lynch, Dublin \| 2003 --
+2005\
+Analyst/Programmer \| Client Solutions Ltd, Dublin \| 1999 -- 2002\
+Junior Developer \| Cap Gemini Ernst & Young, Dublin \| 1998 -- 1999
+
+Education\
+Graduate Diploma in IT (Merit) \| DCU, Dublin \| Sep 1997 -- Jun 1998\
+BA (Hons) Economics (2:1) \| UCD, Dublin \| Oct 1994 -- Jun 1997

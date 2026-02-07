@@ -1,0 +1,153 @@
+**Matthew Clarson** Las Vegas, NV
+
+\(702\) 626-3583 \|
+[[https://github.com/CorncrakeConsulting]{.underline}](https://github.com/CorncrakeConsulting)
+\|
+[[clarson.matt@outlook.com]{.underline}](mailto:clarson.matt@outlook.com)
+
+**Summary**
+
+Las Vegas-based Automation Engineer with extensive experience in
+enterprise systems, integrations, and automation across financial
+services and gaming. Strong background in Java, Spring Boot, APIs, SQL,
+CI/CD, and large-scale data validation, combined with extensive hands-on
+use of GitHub Copilot / Copilot Studio and other AI tools for coding,
+testing, and automation. Skilled at translating business requirements
+into practical automation and integration solutions, collaborating with
+cross-functional teams, and explaining technical concepts to
+non-technical stakeholders.
+
+**Key & Technical Skills**
+
+- Automation & Frameworks: Java, Spring Boot, Selenium, Cucumber (BDD),
+  JUnit
+
+- API & Data Validation: Backend/service verification integrated with
+  SQL-based checks
+
+- CI/CD & Build: Jenkins, Git/GitHub, Maven, SonarQube, AWS (EC2),
+  GitHub Actions (build workflow automation)
+
+- SQL Expertise: Stored procedure design, optimization, reconciliation,
+  production query analysis
+
+- Release & Stability: Sev1 escalation handling, change management
+  playbook authorship, regression integration before merges
+
+- Scripting & Tooling: Java, SQL, Bash (build scripting)
+
+- Extensive use of AI for coding and testing
+
+**Employment Experience**
+
+**Build Master \| Sands Digital Services -- Division of Las Vegas Sands
+Corp \| Jun 2025 -- Oct 2025**
+
+- Automated multi-component (server and client) build workflows using
+  Bash and GitHub Actions, improving reliability and speed of
+  deployments.
+
+- Used Git/JIRA APIs with AI tools to automatically generate
+  role-specific release summaries for stakeholders.
+
+- Authored a change management playbook with leadership, documenting
+  processes for releases and operational changes.
+
+- Role concluded due to division-wide closure.
+
+**Architect/SDET, Business Validation Automation \| Broadridge, London
+\| Feb 2018 -- Jul 2024**
+
+- Partnered with senior business analysts and business partners to
+  gather testing requirements from the start and throughout each
+  project.
+
+- Led development of a Java/Spring Boot automation framework for
+  complex, high-volume post-trade processing systems including API, REST
+  and SOAP testing.
+
+- Designed automated workflows integrating multiple systems and data
+  sources for end-to-end business process validation.
+
+- Integrated BDD (Cucumber), Selenium, and backend API testing for
+  comprehensive automation coverage.
+
+- Managed and mentored a distributed development team in the UK and
+  India, driving efficient project delivery.
+
+- Designed and implemented a robust CI/CD pipeline with SonarQube for
+  code quality and high unit test coverage, deployed on AWS for
+  automated builds, tests, and releases.
+
+- Embedded regression automation into release pipelines to capture
+  issues before code merges.
+
+- Led the firm in the use of AI for coding and testing.
+
+- Helped teammates incorporate AI assistants into their daily
+  development and test automation work, improving speed on boilerplate
+  code and test design.
+
+**IT Contractor, Technical Analyst \| Broadridge, London \| Oct 2014 --
+Feb 2018**
+
+- Authored System Proposal Forms (SPFs) translating business
+  requirements into the technical specifications for developers and
+  testers.
+
+- Managed system enhancements from specification through to client
+  demonstrations, working with product owners, architects, developers,
+  testers, BAs to deliver complex enhancements and greenfield projects.
+
+- Worked extensively on transaction reporting across multiple
+  international jurisdictions, navigating complex regulatory
+  requirements and compliance standards.
+
+- Performed in-depth data analysis and SQL reporting, reconciling trade
+  data against regulatory mandates and ensuring accuracy across diverse
+  global markets.
+
+**VP Developer, Scrum Team \| Bank of America Merrill Lynch, Dublin \|
+Feb 2012 -- Oct 2014**
+
+- Developed and maintained enterprise back-office applications using
+  SQL, Java, TIBCO and Python in an Agile Scrum team.
+
+**VP Team Lead & Senior Support Engineer, Application Service Delivery
+\| Bank of America Merrill Lynch, Dublin \| Aug 2005 -- Feb 2012**
+
+- Owned daily support ticket queue (JIRA): prioritized, assigned,
+  tracked progress; drove timely escalation of complex issues and upheld
+  SLA expectations.
+
+- Acted as SME and final escalation point for complex technical issues
+  and Sev1/high‑priority incidents---coordinated escalation flow,
+  resolved critical tickets, guided team response, and ensured
+  structured handoffs with clear status communication to senior
+  stakeholders.
+
+- Managed production support for enterprise financial applications,
+  ensuring high availability, stability, and performance in a
+  mission‑critical environment.
+
+- Led transition of application support from London to Dublin; managed a
+  25-person team (Dublin & India) and spent 6 months in Chennai
+  upskilling staff.
+
+- Mentored and trained junior engineers, fostering skill development and
+  improving overall team efficiency.
+
+**Early Career Summary (1998 -- 2005)**
+
+- Analyst Developer \| Bank of America Merrill Lynch, Dublin \| 2003 --
+  2005
+
+- Analyst/Programmer \| Client Solutions Ltd, Dublin \| 1999 -- 2002
+
+- Junior Developer \| Cap Gemini Ernst & Young, Dublin \| 1998 -- 1999
+
+**Education**
+
+- Graduate Diploma in IT (Merit) \| DCU, Dublin \| Sep 1997 -- Jun 1998
+
+- BA (Hons) Economics (2:1) \| UCD, Dublin \| Oct 1994 -- Jun 1997

@@ -1,0 +1,168 @@
+**Matthew Clarson**
+
+Las Vegas, NV • (702) 626-3583 •
+<https://github.com/CorncrakeConsulting> • <clarson.matt@outlook.com>
+
+**Summary**
+
+Las Vegas--based SDET and Automation Engineer with extensive experience
+designing and implementing test automation for large-scale financial
+services and gaming organizations. Expert in building Java/Spring
+Boot-based automation frameworks (UI, API, and backend), integrating BDD
+(Cucumber), Selenium, and SQL-driven validation into CI/CD pipelines
+using Jenkins, GitHub Actions, Maven, SonarQube, and AWS. Proven track
+record improving quality metrics, stabilizing releases, and formalizing
+change management and testing processes, with recent focus on
+multi-component build automation, reporting, and AI-assisted coding and
+testing.
+
+**Key & Technical Skills**
+
+**Test Design & QA Practices:** Functional and regression testing,
+integration testing, UAT support, requirements analysis, risk-based
+testing, defect triage, change management
+
+**Automation & Frameworks:** Java, Spring Boot, Selenium WebDriver,
+Cucumber (BDD), JUnit
+
+**API & Data Validation:** Backend/service validation, SQL-based data
+reconciliation, production query analysis
+
+**CI/CD & DevOps:** Jenkins, Git/GitHub, Maven, SonarQube, AWS (EC2),
+GitHub Actions (build and test workflow automation)
+
+**Quality Tooling:** JIRA (defect tracking and work management),
+Confluence (process and test documentation)
+
+**SQL Expertise:** Stored procedure design and optimization, complex
+joins, reconciliation and reporting for regulatory and business-critical
+data
+
+**Release & Stability:** Sev1 escalation handling, incident management,
+regression integration before merges, playbook and runbook authorship
+
+**Scripting & Tooling:** Java, SQL, Bash (build and pipeline scripting)
+
+**AI Usage:** Extensive use of AI tools to accelerate coding, test
+design, and test data generation
+
+**Employment Experience**
+
+**Build Master**
+
+Sands Digital Services -- Division of Las Vegas Sands Corp \| Jun 2025
+-- Oct 2025
+
+- Automated multi-component server and client build workflows using Bash
+  and GitHub Actions, improving repeatability and reducing manual
+  intervention.
+
+- Standardized build visibility and consistency by generating automated
+  release reports using Git and JIRA metadata, including AI-generated
+  summaries tailored to testers, management, and IT leadership.
+
+- Authored and maintained a change management playbook in collaboration
+  with leadership to formalize quality checkpoints and approvals.
+
+- Partnered with cross-functional teams (development, QA, operations) to
+  improve operational reliability and strengthen quality gates across
+  the deployment lifecycle.
+
+- Role concluded due to division-wide closure.
+
+**Architect/SDET, Business Validation Automation**
+
+Broadridge, London \| Feb 2018 -- Jul 2024
+
+- Collaborated with senior business analysts and stakeholders to
+  translate business requirements into clear functional and
+  non-functional test scenarios from project inception through delivery.
+
+- Led design and implementation of a Java/Spring Boot automation
+  framework for complex, high-volume post-trade systems, exposing
+  reusable APIs and libraries that were adopted by other teams.
+
+- Integrated Cucumber BDD, Selenium UI tests, and backend/service
+  validation into a unified automation suite for end-to-end coverage.
+
+- Managed and mentored a distributed development and test automation
+  team (UK and India), coordinating planning, code reviews, and delivery
+  milestones.
+
+- Designed and implemented a CI/CD pipeline with Jenkins, Maven, and
+  SonarQube for code quality and unit test coverage, deploying to AWS
+  for automated builds, tests, and releases.
+
+- Embedded regression automation into release pipelines to detect
+  defects before merges and production releases.
+
+- Championed and led the use of AI tools for coding assistance, test
+  generation, and analysis within the team.
+
+**IT Contractor, Technical Analyst**
+
+Broadridge, London \| Oct 2014 -- Feb 2018
+
+- Authored System Proposal Forms (SPFs) to convert business requirements
+  into technical specifications for developers and testers.
+
+- Managed system enhancements from requirements through client
+  demonstrations, coordinating with product owners, architects,
+  developers, testers, and BAs.
+
+- Worked extensively on transaction reporting across multiple
+  international jurisdictions, aligning implementations with complex
+  regulatory standards.
+
+- Performed detailed data analysis and SQL reporting, reconciling trade
+  data against regulatory mandates and internal controls.
+
+**VP Developer, Scrum Team**
+
+Bank of America Merrill Lynch, Dublin \| Feb 2012 -- Oct 2014
+
+- Developed and maintained enterprise back-office applications in an
+  Agile Scrum team using SQL, Java, TIBCO, and Python.
+
+- Contributed to design, implementation, and ongoing support of core
+  banking and post-trade systems, collaborating closely with QA and
+  business stakeholders.
+
+**VP Team Lead & Senior Support Engineer, Application Service Delivery**
+
+Bank of America Merrill Lynch, Dublin \| Aug 2005 -- Feb 2012
+
+- Owned and managed the daily support ticket queue (JIRA), prioritizing,
+  assigning, and tracking progress while maintaining SLA commitments.
+
+- Acted as SME and final escalation point for Sev1 and other
+  high-priority incidents, coordinating incident response and
+  communication with senior stakeholders.
+
+- Managed production support for enterprise financial applications,
+  ensuring availability, performance, and stability in a
+  mission-critical environment.
+
+- Led the transition of application support from London to Dublin;
+  managed a 25-person team across Dublin and India and spent six months
+  in Chennai upskilling staff.
+
+- Mentored and trained junior engineers, improving team capability,
+  process consistency, and documentation quality.
+
+**Early Career (1998 -- 2005)**
+
+- Analyst Developer \| Bank of America Merrill Lynch, Dublin \| 2003 --
+  2005
+
+- Analyst/Programmer \| Client Solutions Ltd, Dublin \| 1999 -- 2002
+
+- Junior Developer \| Cap Gemini Ernst & Young, Dublin \| 1998 -- 1999
+
+**Education**
+
+**Graduate Diploma in IT (Merit)** \| Dublin City University (DCU) \|
+Sep 1997 -- Jun 1998
+
+**BA (Hons) Economics (2:1)** \| University College Dublin (UCD) \| Oct
+1994 -- Jun 1997

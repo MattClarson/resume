@@ -1,0 +1,215 @@
+**MATTHEW CLARSON**
+
+Las Vegas, NV 89139 \| 702-626-3583 \| clarson.matt@outlook.com
+
+**PROFESSIONAL SUMMARY**
+
+Senior SDET and QA automation engineer with 20+ years building test
+automation frameworks, implementing CICD pipelines, and leading
+production support and quality assurance initiatives for large-scale
+financial services and laterally gaming systems. I have experience in
+Java/Spring Boot automation frameworks, Selenium, Cucumber BDD, and CICD
+tools. Proven track record improving quality metrics, stabilizing
+releases, and mentoring distributed teams. Recent experience in build
+automation and release management.
+
+**CORE SKILLS**
+
+**Test Automation**
+
+• Selenium WebDriver, Cucumber BDD, JUnit test frameworks
+
+• API testing, UI testing, backend service validation
+
+• Test framework architecture and design patterns
+
+• Regression automation and quality gate automation
+
+**Programming & Development**
+
+• Java, Spring Boot, SQL, Python, Bash
+
+• SOLID principles and clean code practices
+
+• Test-driven development (TDD)
+
+**CICD & DevOps**
+
+• Jenkins, GitHub Actions, Maven, SonarQube
+
+• AWS EC2, build automation, deployment pipelines
+
+• Bash scripting for build and deployment automation
+
+**QA & Release Management**
+
+• Defect triage and change management
+
+• Release stability and incident management
+
+• Sev1 escalation handling
+
+• Quality metrics and KPI tracking
+
+**Database & Analytics**
+
+• SQL expertise: MSSQL, Sybase
+
+• Data reconciliation and validation
+
+• Complex query optimization
+
+• Regulatory and compliance reporting
+
+**Leadership**
+
+• Team mentoring and training
+
+• Agile/Scrum team coordination
+
+• Cross-functional collaboration
+
+**PROFESSIONAL EXPERIENCE**
+
+**BUILD MASTER**
+
+Sands Digital Services -- Division of Las Vegas Sands Corp \| Las Vegas,
+NV
+
+June 2025 -- October 2025
+
+• Automated multi-component microservice server and client build
+workflows using Bash and GitHub Actions
+
+• Generated automated release reports using Git and JIRA metadata with
+AI-generated summaries for different audiences (testers, management, IT
+leadership)
+
+• Authored change management playbook in collaboration with leadership
+to formalize quality checkpoints and approvals
+
+• Partnered with development, QA, and operations teams to improve
+operational reliability and strengthen quality gates
+
+• Position concluded due to company-wide organizational closure
+
+**ARCHITECT SDET, BUSINESS VALIDATION AUTOMATION**
+
+Broadridge Financial Solutions \| London, UK
+
+February 2018 -- July 2024
+
+• Designed and implemented a Java/Spring Boot automation framework for
+testing complex, high-volume post-trade financial systems
+
+• Built extensible APIs and reusable libraries that were adopted across
+multiple departments, improving testing consistency and efficiency
+
+• Integrated Cucumber BDD, Selenium UI tests, and backend service
+validation into unified automation suite for comprehensive end-to-end
+coverage
+
+• Managed and mentored distributed team of developers and testers across
+UK and India; coordinated planning, code reviews, and delivery
+milestones
+
+• Designed robust CICD pipeline using Jenkins, Maven, and SonarQube with
+AWS EC2 deployment, improving build reliability and code quality
+
+• Embedded regression automation into release pipelines to detect
+defects before code merges
+
+• Championed adoption of AI tools for coding assistance, test
+generation, and analysis within the team
+
+**IT CONTRACTOR, TECHNICAL ANALYST**
+
+Broadridge Financial Solutions \| London, UK
+
+October 2014 -- February 2018
+
+• Authored System Proposal Forms (SPFs) translating business
+requirements into technical specifications for developers and testers
+
+• Managed system enhancements from specification through client
+demonstrations, coordinating with product owners, architects,
+developers, testers, and business analysts
+
+• Worked extensively on transaction reporting across multiple
+international jurisdictions, navigating complex regulatory requirements
+
+• Performed detailed SQL-based data analysis and reconciliation;
+presented findings to senior stakeholders
+
+**VP DEVELOPER, SCRUM TEAM**
+
+Bank of America Merrill Lynch \| Dublin, Ireland
+
+February 2012 -- October 2014
+
+• Developed and maintained enterprise back-office applications in Agile
+Scrum teams using SQL, Java, TIBCO, and Python
+
+• Collaborated with QA and business stakeholders on system design,
+implementation, and ongoing support
+
+**VP TEAM LEAD, SENIOR SUPPORT ENGINEER -- APPLICATION SERVICE
+DELIVERY**
+
+Bank of America Merrill Lynch \| Dublin, Ireland
+
+August 2005 -- February 2012
+
+• Managed daily support ticket queue in JIRA; prioritized, assigned, and
+tracked progress while maintaining SLA commitments
+
+• Acted as SME and escalation point for Sev1 and high-priority
+incidents; coordinated incident response and stakeholder communication
+
+• Managed production support for mission-critical enterprise financial
+applications, ensuring availability, performance, and stability
+
+• Led team of 25 people across Dublin and India; spent 6 months in
+Chennai upskilling local staff and improving team capability
+
+• Mentored and trained junior engineers, improving team efficiency and
+process consistency
+
+• Provided detailed JIRA reporting and status updates to senior
+management in both technical and business teams
+
+**EARLY CAREER (1998--2005)**
+
+Analyst Developer \| Bank of America Merrill Lynch, Dublin
+
+Analyst/Programmer \| Client Solutions Ltd, Dublin
+
+Junior Developer \| Cap Gemini Ernst Young, Dublin
+
+Built foundation in software development, systems analysis, and
+enterprise application support.
+
+**EDUCATION**
+
+Graduate Diploma in IT \| Dublin City University \| September 1997 --
+June 1998 \| Achieved with Merit
+
+BA Honours in Economics \| University College Dublin \| October 1994 --
+June 1997 \| Achieved 2:1 Honours
+
+TECHNICAL SKILLS
+
+Languages: Java, SQL, Python, Bash
+
+Frameworks: Spring Boot, JUnit, Hibernate/JPA, Selenium, Cucumber BDD
+
+DevOps: Jenkins, GitHub Actions, Maven, SonarQube, AWS EC2
+
+Databases: MSSQL, Sybase
+
+Version Control: Git, GitHub
+
+Methodologies: Agile/Scrum, Test-Driven Development, SOLID Principles,
+Design Patterns
+
+Tools: JIRA, Confluence, Maven
