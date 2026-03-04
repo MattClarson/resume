@@ -1,0 +1,192 @@
+**Matthew Clarson**
+
+📍 Las Vegas, NV 89139
+
+📞 (702) 626-3853 \| 📧
+[[clarson.matt@outlook.com]{.underline}](mailto:clarson.matt@outlook.com)
+
+**Summary**
+
+QA Engineer with 8+ years of experience owning quality across enterprise
+web applications, financial data platforms, and AI-driven workflows.
+Proven ability to manage QA end-to-end across multiple concurrent
+projects — from test planning and execution through defect tracking,
+regression pipelines, and release sign-off. Strong background in
+validating complex automated workflows and integrations in
+compliance-sensitive environments (MiFID II, Dodd-Frank regulatory
+reporting — directly analogous to HIPAA rigour). Experienced in
+collaborating with engineering and product teams to clarify requirements,
+triage issues, and maintain release confidence. Recently completed a
+performance testing course; practical background in performance
+monitoring, SQL optimisation, and build pipeline efficiency.
+
+**Key & Technical Skills**
+
+- **Manual & Automated Testing:** Web application testing; API testing;
+  AI workflow validation; backend testing; regression testing;
+  cross-browser testing; smoke testing; exploratory testing; test
+  planning and execution; acceptance criteria validation.
+
+- **Test Design & Defect Management:** Test case writing; defect
+  documentation with reproduction steps; bug tracking and triage; JIRA
+  for defect and issue management; release sign-off; UAT coordination.
+
+- **Automation Frameworks & Tools:** Selenium WebDriver; Cucumber BDD;
+  Playwright (recently completed project); Java; Spring Boot;
+  Hibernate/JPA; CI/CD integration (Jenkins, GitHub Actions).
+
+- **API Testing:** Programmatic API testing via Java/Spring Boot;
+  RESTful service validation; end-to-end integration testing.
+
+- **Performance & Quality:** Recently completed performance testing
+  training; practical experience in SQL query optimisation, CI/CD
+  pipeline efficiency, and build performance monitoring; SonarQube for
+  code quality enforcement.
+
+- **Databases & Analysis:** MSSQL; Sybase; SQL query optimisation; data
+  validation; database regression checks.
+
+- **Methods & Process:** Agile/Scrum; risk-based testing; multi-product
+  QA ownership; compliance-aware testing; cross-functional
+  collaboration; documentation and process improvement.
+
+**Employment Experience**
+
+**Jun 2025 -- Oct 2025**
+
+**Build Master Sands Digital Services -- Division of Las Vegas Sands
+Corp**
+
+- Validated AI-assisted workflows including AI-generated release
+  summaries produced via API integration; verified output accuracy,
+  consistency, and relevance across multiple target audiences (testers,
+  management, IT directors)
+
+- Performed manual verification testing of builds and releases across
+  multiple environments (dev, QA, staging, production) before deployment
+
+- Developed and integrated automated smoke tests into CI/CD pipelines
+  (GitHub Actions), enabling early regression detection across release
+  cycles
+
+- Collaborated with QA and development teams across the organisation to
+  align on release quality standards, testing scope, and go/no-go
+  criteria
+
+- Authored change management playbook in collaboration with leadership,
+  capturing QA processes, deployment checklists, and rollback procedures
+
+- Monitored application errors post-release; investigated root causes
+  using logging and error tracking systems; coordinated with development
+  teams to resolve production issues
+
+- Role concluded in October 2025 due to division-wide closure
+
+**Feb 2018 -- Jul 2024**
+
+**Senior SDET, Business Validation Automation Broadridge, London**
+
+- Owned QA for complex, high-volume web-based post-trade processing
+  systems operating in a strict compliance environment (MiFID II,
+  Dodd-Frank regulatory reporting), requiring the same rigour and
+  accountability expected in HIPAA-regulated healthcare systems
+
+- Validated AI-assisted and complex automated workflows processing
+  millions of daily transactions; verified data accuracy, workflow
+  reliability, and integration correctness across API, UI, and backend
+  layers
+
+- Built end-to-end automated test coverage using Java, Spring Boot,
+  Selenium, and Cucumber BDD, reducing manual testing effort by 70%
+  while improving defect detection rates across multiple products
+
+- Documented defects with detailed reproduction steps, technical
+  context, and environment details; managed triage and resolution
+  tracking in JIRA
+
+- Integrated automated regression pipelines into CI/CD workflows,
+  enabling regression sign-off before each code merge and supporting
+  reliable release cadences
+
+- Designed and executed comprehensive test strategies covering
+  functional, regression, and integration testing; conducted
+  exploratory testing to surface edge cases and unexpected behaviour
+
+- Partnered with product owners, architects, and developers early in
+  each development cycle to define acceptance criteria, identify quality
+  risks, and determine test coverage requirements
+
+- Led distributed QA team across UK and India; drove continuous
+  improvement of testing standards, automation tooling, and QA
+  processes
+
+- Deployed CI/CD infrastructure on AWS EC2, integrating SonarQube for
+  code quality enforcement and multi-stage automated testing (unit,
+  integration, regression)
+
+**Oct 2014 -- Feb 2018**
+
+**IT Contractor, Technical Analyst Broadridge, London**
+
+- Performed manual testing and validation of system enhancements across
+  web-based financial applications; documented test results and
+  coordinated with QA teams
+
+- Authored technical specifications translating business requirements
+  for developers and testers; validated delivered functionality against
+  those specifications
+
+- Conducted in-depth data analysis and SQL reporting, reconciling trade
+  data against regulatory mandates across multiple international
+  jurisdictions
+
+**Feb 2012 -- Oct 2014**
+
+**VP Developer, Scrum Team Bank of America Merrill Lynch, Dublin**
+
+- Contributed to full software lifecycle including requirements
+  analysis, development, test planning, defect investigation, and
+  release verification in Agile Scrum team
+
+**Aug 2005 -- Feb 2012**
+
+**Team Lead & Senior Support Engineer, Application Service Delivery Bank
+of America Merrill Lynch, Dublin**
+
+- Managed Sev1 triage and escalation for production financial
+  applications; tracked and reported incidents in JIRA with detailed
+  status updates to senior management
+
+- Served as SME and escalation point for complex technical issues;
+  resolved high-priority defects and guided team through critical
+  incidents
+
+- Managed production support ensuring high availability, stability, and
+  performance in mission-critical environment
+
+**Early Career Summary (1998 -- 2005)**
+
+- Bank of America Merrill Lynch, Dublin \| Analyst Developer (2003 --
+  2005)
+
+- Client Solutions Ltd, Dublin \| Analyst/Programmer (1999 -- 2002)
+
+- Cap Gemini Ernst & Young, Dublin \| Junior Developer (1998 -- 1999)
+
+EDUCATION
+
+Currently studying C#, software patterns; recently completed a project
+using Playwright and TypeScript; recently completed a performance testing
+course.
+
+- Sep 1997 - Jun 1998: Graduate Diploma in IT
+
+> DCU, Dublin
+>
+> Achieved: Merit
+
+- Oct 1994 - Jun 1997: BA (Hons) in Economics
+
+> UCD, Dublin
+>
+> Achieved: 2:1 Honours
